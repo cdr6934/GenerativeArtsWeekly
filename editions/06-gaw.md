@@ -1,3 +1,11 @@
+---
+title: #006 Generative Arts Weekly 
+description: 
+image: 
+tags: generative, art
+---
+# #006 Generative Arts Weekly
+
 # Cloud Fractals, Blooms and Spinning Parametrics
 
 > "The greatest value of a picture is when it forces us to notice what we never expected to see." -John Tukey
