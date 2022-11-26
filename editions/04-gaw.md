@@ -1,3 +1,11 @@
+---
+title: #001 Generative Arts Weekly 
+description: 
+image: 
+tags: generative, art
+---
+# #004 Generative Arts Weekly
+
 > Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." - *Scott Adams*
 > 
 
