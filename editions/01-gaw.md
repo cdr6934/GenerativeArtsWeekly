@@ -1,3 +1,12 @@
+---
+title: 
+description: 
+image: 
+tags: generative, art
+---
+
+
+
 > “Nothing's perfect, the world's not perfect. But it's there for us, trying the best it can; that's what makes it so beautiful.”  - *Hiromu Arakaw*
 
 
@@ -11,7 +20,7 @@ This is the first newsletter that I have put together and i know it won't be rea
 
 ## 🖌️Unconventional Media
 
-[https://youtu.be/F35-HJc0ZcM](https://youtu.be/F35-HJc0ZcM)
+{%youtube F35-HJc0ZcM %}
 
 To be honest, I am not sure what to think about this style. It seems to be a bit worrisome to use ants as agents to generate the images that are here. But at the same time, there are some very interesting concepts of generative intelligence that I find interesting enough to add. ([source](https://kottke.org/20/10/paintings-by-fire-ants))
 
@@ -19,21 +28,15 @@ To be honest, I am not sure what to think about this style. It seems to be a bit
 
 Here is a newly started [Twitter account](https://twitter.com/LFractals?s=20)  called @LFractals, as you see with the following images. There are some complex looking mathematics going on produce some beautiful [Lyapunov fractals](https://en.wikipedia.org/wiki/Lyapunov_fractal).
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c656f70-77e0-4e24-887c-c546bdf78607/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c656f70-77e0-4e24-887c-c546bdf78607/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46a0dead-7945-4020-84fe-05ef8b7bede3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46a0dead-7945-4020-84fe-05ef8b7bede3/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a53b0b7-4c94-44ff-a7fb-5fa9009b0f26/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a53b0b7-4c94-44ff-a7fb-5fa9009b0f26/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92fed801-d828-4649-a780-813a3d2154bb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92fed801-d828-4649-a780-813a3d2154bb/Untitled.png)
 
 ## 🎶Music
 
-[https://youtu.be/PnIyPsjaDAg](https://youtu.be/PnIyPsjaDAg)
+{%youtube PnIyPsjaDAg %}
 
 In this showcase we simply used the [Zwobot](https://www.zwobotmax.com) LorenzFX-Module as a basis FX and just playing around with other Zwobot-FX on top of it. The variety is endless.
 
-[https://www.youtube.com/watch?v=995vS_pHrUk&feature=emb_title](https://www.youtube.com/watch?v=995vS_pHrUk&feature=emb_title)
+{%youtube 995vS_pHrUk %}
+
 
 This time we learn no new programming concepts, but find out how to install a MIDI library in Processing to be able to control program parameters using an external hardware device. MIDI controllers are often used together with music programs to do things like changing volumes or effect amount. But they are a great tool for experimenting with your programs, because they allow you to change numbers without having to restart your program. You just turn a knob or move a slider and see the graphics change.
 
